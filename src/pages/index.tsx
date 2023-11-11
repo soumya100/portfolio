@@ -1,4 +1,5 @@
-import LandingPageIndex from '@/container/LandingPage'
+import LandingPageIndex from "../container/LandingPage";
+
 
 export default function Home() {
   return (
