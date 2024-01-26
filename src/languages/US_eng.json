@@ -1,3 +1,14 @@
 {
-    
+    "home": "Home",
+    "aboutMyself": "About Myself",
+    "skills": "Skills",
+    "cerficates": "Certificates",
+    "workExperience": "Work experience",
+    "myServices": "My services",
+    "myProjects": "My Projects",
+    "contactMe": "Contact Me",
+    "myName":{
+        "firstName":"Soumyadeep",
+        "lastName":"Nandi"
+    }
 }

@@ -1,11 +1,13 @@
-import { Box } from '@mui/material'
+import { Box, Container } from '@mui/material'
 import React from 'react'
 
 const LandingPage = () => {
   return (
-    <Box>
-        LandingPage
-        </Box>
+    <Container className={`!w-[90%]`}>
+      <Box className={`!w-full border border-white`}>
+        
+      </Box>
+    </Container>
   )
 }
 
